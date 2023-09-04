@@ -14,7 +14,7 @@
 }
 
 .header {
-    background-color: rgb(26, 47, 178);
+    background-color: rgb(5, 99, 64);
     padding: 20px;
     border-radius: 20px;
 }
@@ -27,5 +27,5 @@
 
 .description {
     line-height: 22px;
-    color: #4a4;
+    color: #000;
 }
